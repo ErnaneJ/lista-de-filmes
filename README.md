@@ -46,7 +46,7 @@ O mesmo também conta com tratamento de erros e exceções para que qualquer má
 - Ou clone este repositorio
 
   ```bash
-  $ git clone 
+  $ git clone https://github.com/ErnaneJ/lista-de-filmes.git
   ```
 
 ##### * se você quiser adicionar alguma nova funcionalidade, ou implementar alguma melhoria. Faça uma solicitação de pull, eu irei adorar receber!
